@@ -39,7 +39,7 @@ ubuntu.globalNav = function () {
     { url: "http://partners.ubuntu.com", title: "Partners" },
     { url: "https://buy.ubuntu.com/", title: "Shop" }],
 
-    more: [{ url: "https://help.ubuntu.com", title: "Help" }, { url: "https://ubuntuforums.org", title: "Forum" }, { url: "https://www.launchpad.net", title: "Launchpad" }, { url: "https://shop.canonical.com", title: "Merchandise" }, { url: "http://www.canonical.com", title: "Canonical" }, { url: "https://conjure-up.io", title: "conjure-up" }],
+    more: [{ url: "https://help.ubuntu.com", title: "Help" }, { url: "https://ubuntuforums.org", title: "Forum" }, { url: "https://www.launchpad.net", title: "Launchpad" }, { url: "https://shop.canonical.com", title: "Merchandise" }, { url: "http://www.canonical.com", title: "Publab" }, { url: "https://conjure-up.io", title: "conjure-up" }],
 
     setup: function setup() {
       var globalNav = this.createNav();
