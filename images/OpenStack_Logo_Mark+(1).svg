@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="181px" width="210px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 181"><!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+ <title>OpenStack_Logo_Mark+(1)</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <polygon id="path-1" points="92.139 0.647 0 0.647 0 180.94 184.28 180.94 184.28 0.647"/>
+  <polygon id="path-3" points="0.663 110.94 67.667 110.94 67.667 55.478 67.667 0.015 0.663 0.015"/>
+ </defs>
+ <g id="Page-1" fill-rule="evenodd" fill="none">
+  <g id="OpenStack_Logo_Mark+(1)">
+   <g id="Group-4" fill="#DA2643">
+    <mask id="mask-2" fill="white">
+     <use xlink:href="#path-1"/>
+    </mask>
+    <path id="Fill-1" mask="url(#mask-2)" d="m184.28 58.116h-41.62v-6.592c0-5.115-4.14-9.261-9.26-9.261h-82.524c-5.114 0-9.26 4.146-9.26 9.261v6.592h-41.616v-40.347c0-9.417 7.705-17.122 17.122-17.122h150.04c9.41 0 17.12 7.705 17.12 17.122v40.347"/>
+    <path id="Fill-3" mask="url(#mask-2)" d="m167.16 181h-150.04c-9.415 0-17.12-7.7-17.12-17.12v-40.35h41.616v6.59c0 5.12 4.146 9.26 9.261 9.26h82.523c5.12 0 9.26-4.14 9.26-9.26v-6.59h41.62v40.35c0 9.42-7.71 17.12-17.12 17.12"/>
+   </g>
+   <polygon id="Fill-5" points="0 111.63 41.616 111.63 41.616 70.015 0 70.015" fill="#DA2643"/>
+   <g id="Group-9" transform="translate(142 70)">
+    <mask id="mask-4" fill="white">
+     <use xlink:href="#path-3"/>
+    </mask>
+    <polygon id="Fill-6" points="0.663 41.631 42.278 41.631 42.278 0.015 0.663 0.015" mask="url(#mask-4)" fill="#DA2643"/>
+    <path id="Fill-8" fill="#D91F41" mask="url(#mask-4)" d="m58.463 108.74c-3.828 0-6.941-3.12-6.941-6.94 0-3.832 3.113-6.946 6.941-6.946s6.942 3.114 6.942 6.946c0 3.82-3.114 6.94-6.942 6.94zm9.204-6.94c0-5.079-4.129-9.207-9.204-9.207s-9.203 4.128-9.203 9.207c0 5.07 4.128 9.2 9.203 9.2s9.204-4.13 9.204-9.2z"/>
+   </g>
+   <path id="Fill-10" fill="#D91F41" d="m202.03 170.18c0 0.81-0.51 1.35-1.47 1.35h-1.37v-2.72h1.34c0.95 0 1.5 0.45 1.5 1.36v0.01zm1.89-0.05v-0.05c0-0.89-0.28-1.6-0.76-2.09-0.57-0.57-1.41-0.86-2.45-0.86h-3.39v9.01h1.87v-2.96h1.17l1.66 2.96h2.14l-1.92-3.35c0.99-0.43 1.68-1.3 1.68-2.66z"/>
+  </g>
+ </g>
+</svg>
